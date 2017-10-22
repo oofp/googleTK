@@ -18,4 +18,7 @@ cabal.sandbox.config
 .stack-work/
 cabal.project.local
 .HTF/
+<<<<<<< HEAD
 .ghc.environment.*
+=======
+>>>>>>> 556b86069dba3318b3b34044f6f6c12470c50bbb
