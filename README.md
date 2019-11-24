@@ -1,3 +1,3 @@
 # googleTK
 
-Google Firebase authentication for Haskell applications
+Google Firebase authentication and Firebase cloud messaging for Haskell applications
